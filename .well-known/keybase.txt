@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/torrancew
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://sbb.io
+  * I am torrancew (https://keybase.io/torrancew) on keybase.
+  * I have a public key ASAx5N1qpU7B2LZ8XUCaCug2DG1fPQGhtuLVi99zGLipbQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120cee566b33f55614518214df326710831561ceca60a237535fa8883481be21c830a",
+      "host": "keybase.io",
+      "kid": "012031e4dd6aa54ec1d8b67c5d409a0ae8360c6d5f3d01a1b6e2d58bdf7318b8a96d0a",
+      "uid": "3763935bef7850e56acb303ae8e5d600",
+      "username": "torrancew"
+    },
+    "merkle_root": {
+      "ctime": 1508197880,
+      "hash": "0011ceefd433960b34af1ad6e73330bc23da3d8110d98fe203f3f3c7e94ac777336b1ef12905e9d4e3390242154b3138edb8f7c96a0b8c6816aa898eec6b46bf",
+      "hash_meta": "cd28c2837eb6b8176581fb919bd1e6e558feca8c0de3e4590d7f9591e42d0442",
+      "seqno": 1587875
+    },
+    "service": {
+      "hostname": "sbb.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.34"
+  },
+  "ctime": 1508197839,
+  "expire_in": 504576000,
+  "prev": "06b2e7bcabc7e07df0408d0af80a9290190d1504e5712e111e75af1da7d9d534",
+  "seqno": 21,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgMeTdaqVOwdi2fF1AmgroNgxtXz0Bobbi1Yvfcxi4qW0Kp3BheWxvYWTFA0B7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwY2VlNTY2YjMzZjU1NjE0NTE4MjE0ZGYzMjY3MTA4MzE1NjFjZWNhNjBhMjM3NTM1ZmE4ODgzNDgxYmUyMWM4MzBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMzFlNGRkNmFhNTRlYzFkOGI2N2M1ZDQwOWEwYWU4MzYwYzZkNWYzZDAxYTFiNmUyZDU4YmRmNzMxOGI4YTk2ZDBhIiwidWlkIjoiMzc2MzkzNWJlZjc4NTBlNTZhY2IzMDNhZThlNWQ2MDAiLCJ1c2VybmFtZSI6InRvcnJhbmNldyJ9LCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTUwODE5Nzg4MCwiaGFzaCI6IjAwMTFjZWVmZDQzMzk2MGIzNGFmMWFkNmU3MzMzMGJjMjNkYTNkODExMGQ5OGZlMjAzZjNmM2M3ZTk0YWM3NzczMzZiMWVmMTI5MDVlOWQ0ZTMzOTAyNDIxNTRiMzEzOGVkYjhmN2M5NmEwYjhjNjgxNmFhODk4ZWVjNmI0NmJmIiwiaGFzaF9tZXRhIjoiY2QyOGMyODM3ZWI2YjgxNzY1ODFmYjkxOWJkMWU2ZTU1OGZlY2E4YzBkZTNlNDU5MGQ3Zjk1OTFlNDJkMDQ0MiIsInNlcW5vIjoxNTg3ODc1fSwic2VydmljZSI6eyJob3N0bmFtZSI6InNiYi5pbyIsInByb3RvY29sIjoiaHR0cHM6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjM0In0sImN0aW1lIjoxNTA4MTk3ODM5LCJleHBpcmVfaW4iOjUwNDU3NjAwMCwicHJldiI6IjA2YjJlN2JjYWJjN2UwN2RmMDQwOGQwYWY4MGE5MjkwMTkwZDE1MDRlNTcxMmUxMTFlNzVhZjFkYTdkOWQ1MzQiLCJzZXFubyI6MjEsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RA6+MsnNqKPWIJHp4NVPv5N0nWz0ScG6C8PuARLmaxKNlTZSbtGeWTSeTHFV62Th2gnrijVFHXz/JSsNSauo0MBKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIKdHW/t5zYY4NVSi6MKrjDC6FllZAI+S3XDeR1srzHQlo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/torrancew
+
+==================================================================
